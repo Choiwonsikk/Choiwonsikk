@@ -3,7 +3,7 @@
 <br>
 
 [![Choiwonsikk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiwonsikk&theme=gruvbox&show_icons=true&rank_icon=github)](https://github.com/Choiwonsikk/github-readme-stats)	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlr5054)](https://solved.ac/tlr5054)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlr5054)](https://solved.ac/tlr5054)-->
 </div>
 <!-- -->
 
